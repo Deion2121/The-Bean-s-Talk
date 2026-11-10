@@ -1,2 +1,2 @@
-# The-Bean-s-Talk
+# The-Beans-Talk
 Coffee Shop Website
